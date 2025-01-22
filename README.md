@@ -33,6 +33,5 @@ MIT
 Feel free to reach out to me here with any questions or comments:
 - Email: selhz@email.com
 - GitHub: selhz9
-
-  Video of component test and application functionality: https://www.youtube.com/watch?v=wV3c8cqb2uk
-  Video of e2e test functionality: https://www.youtube.com/watch?v=gfc52zwtBRg
+- Video of component test and application functionality: https://www.youtube.com/watch?v=wV3c8cqb2uk
+- Video of e2e test functionality: https://www.youtube.com/watch?v=gfc52zwtBRg
